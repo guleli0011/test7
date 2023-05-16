@@ -1,0 +1,484 @@
+.footer {
+    margin: 0px 0px;
+    padding: 15px 15px;
+}
+.f1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.footer1 {
+    margin: 15px 15px;
+    padding: 0px 0px;
+}
+.footer1 h1 {
+    font-size: larger;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.footer1 ul {
+    list-style-type: none;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.footer1 ul li {
+    margin: 10px 0px;
+    padding: 0px 0px;
+}
+.footer1 ul li a {
+    font-size: large;
+    text-decoration: none;
+    color: grey;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.ftext {
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.ftext h1 {
+    font-size: large;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    color: grey;
+}
+.ftext h2 {
+    font-size: medium;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    color: grey;
+}
+.footer1 ul li a:hover {
+    text-decoration: underline;
+}
+
+.f2 {
+    display: none;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.f2 ul {
+    list-style-type: none;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.f2 ul li {
+    margin: 10px 0px;
+    padding: 0px 0px;
+}
+
+.fbtns {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+.fbtnss {
+    margin: 0px;
+    padding: 0px;
+}
+.fbtn {
+    color: grey;
+    padding: 0px;
+    margin: 0px;
+    font-size: larger;
+    border: none;
+    outline: none;
+    background: none;
+}
+.fsvg {
+    color: grey;
+    margin: 5px;
+}
+.fdrop {
+    display: none;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.fdrop ul {
+    list-style-type: none;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.fdrop ul li {
+    margin: 10px 0px;
+    padding: 0px 0px;
+}
+.fdrop ul li a {
+    font-size: large;
+    text-decoration: none;
+    color: grey;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.fdrop ul li a:hover {
+    text-decoration: underline;
+}
+#fsvg1-1 {
+    display: none;
+}
+#fsvg1-2 {
+}
+#fsvg1-1 svg {
+    rotate: 270deg;
+}
+#fsvg1-2 svg {
+    rotate: 90deg;
+}
+#fsvg2-1 {
+    display: none;
+}
+#fsvg2-2 {
+}
+#fsvg2-1 svg {
+    rotate: 270deg;
+}
+#fsvg2-2 svg {
+    rotate: 90deg;
+}
+#fsvg3-1 {
+    display: none;
+}
+#fsvg3-2 {
+}
+#fsvg3-1 svg {
+    rotate: 270deg;
+}
+#fsvg3-2 svg {
+    rotate: 90deg;
+}
+#fsvg4-1 {
+    display: none;
+}
+#fsvg4-2 {
+}
+#fsvg4-1 svg {
+    rotate: 270deg;
+}
+#fsvg4-2 svg {
+    rotate: 90deg;
+}
+#fsvg5-1 {
+    display: none;
+}
+#fsvg5-2 {
+}
+#fsvg5-1 svg {
+    rotate: 270deg;
+}
+#fsvg5-2 svg {
+    rotate: 90deg;
+}
+
+.f3 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+}
+.f3-1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 0px;
+    padding: 0px;
+}
+.f3-1logo {
+    margin: 0px;
+    padding: 0px;
+}
+.f3-1logo svg {
+    margin: 0px;
+    padding: 0px;
+}
+.f3-1text {
+    margin: 0px;
+    padding: 0px;
+}
+.f3-1text h1 {
+    color: gray;
+    font-size: large;
+    margin: 0px 25px;
+    padding: 0px;
+}
+.f3-2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+}
+.f3-2social {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin: 5px 0px;
+    padding: 0px;
+}
+.f3-2social ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+.f3-2social ul li {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px 10px;
+}
+.f3-2social ul li a {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+}
+.f3-2social ul li a svg{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bbtn {
+    border: none;
+    background: none;
+    outline: none;
+}
+.bbbb {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.bbsvg {
+}
+.bbsvg svg {
+    color: gray;
+    margin: 5px;
+}
+.bbh1 {
+}
+.bbh1 h1 {
+    color: gray;
+    font-size: larger;
+    margin: 5px;
+    padding: 0%;
+}
+.bbdrp {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    display: none;
+    left: 0px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.bbdrp1 {
+    background: white;
+    width: 40%;
+    height: auto;
+}
+.h1close {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 15px 0px;
+}
+.h1close h1 {
+    margin: 0px 30px;
+    width: 150%;
+}
+.close {
+    background: none;
+    border: none;
+    margin: 0px 30px;
+    display: flex;
+    outline: none;
+    padding: 0px 0px;
+    justify-content: flex-end;
+    align-content: flex-start;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: center;
+}
+.close svg {
+}
+.close11 {
+    overflow: auto;
+    margin: 10px 0px;
+    max-height: 500px;
+}
+.close11 ul {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0px 25px;
+    padding: 0px;
+    list-style-type: none;
+}
+.close11 ul li {
+}
+.ggllaa {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.svggg {
+    display: none;
+    margin: 5px;
+}
+.svggg svg {
+    color: gray;
+}
+.h1close1 {
+    margin: 0px 40px;
+}
+.h1close1 h1 {
+    font-size: larger;
+    color: gray;
+}
+.h1close1 h2 {
+    font-size: large;
+    color: gray;
+}
+#db {
+    display: block;
+}
+#db1 {
+    margin: 0px 10px;
+}
+@media only screen and (max-width: 1024px) {
+    .f1{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+    .footer1 {
+        margin: 15px 0px;
+        padding: 0px 0px;
+    }
+    .f2 {
+        display: none;
+    }
+    .f3 {
+        flex-direction: column;
+    }
+    .bbdrp1 {
+        width: 60%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .f1{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+    .footer1 {
+        margin: 15px 25px;
+        padding: 0px 0px;
+    }
+    .f2 {
+        display: none;
+    }
+    .bbdrp1 {
+        width: 85%;
+    }
+    .close11 {
+        max-height: 345px;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .f1 {
+        display: none;
+    }
+    .f2 {
+        display: block;
+    }
+    .f3 {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+        margin: 0px;
+        padding: 0px;
+    }
+    .f3-1 {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: center;
+        align-items: flex-end;
+    }
+    .f3-1text h1 {
+        margin: 10px 25px;
+    }
+    .bbdrp1 {
+        width: 100%;
+        height: 100%;
+    }
+    .close11 {
+        max-height: 420px;
+    }
+    .f3-2 {
+        flex-direction: column;
+    }
+}
